@@ -12,19 +12,19 @@ As stated, before this review was done from January to April 2019. During this t
 
 Reviewing the dataframe, it is clear that the urbans regions are outperforming the other two regions when it comes to total rides, drivers, and fares. 
 
-add image here "df city types"
+![df_city_type](https://user-images.githubusercontent.com/100856534/165009770-0a232707-8331-4a64-860a-25ba3470dd6b.png)
 
 Reviewing the total fares per region you can see that the Urban region makes up the majority of revenue, being more than rural and suburban combined. 
 
-add revenue percent chart 
+ ![fares_per_type_percentage](https://user-images.githubusercontent.com/100856534/165009801-72a7e28d-f347-4198-b9bc-08392fa6e73b.png)
 
 However, when reviewing the other city types, rural and suburban are outperforming the urban regions in average per ride and per driver. One of those reasons is clear, the urban regions have far more rides and drivers available to customers. Again, the urban regions make up more than half of the available rides and drivers company wide. 
 
-add driver/rides per type chart
+![drivers_rides_per region](https://user-images.githubusercontent.com/100856534/165009820-c5a5aa52-66ea-4536-ad2f-0216e36d588f.png)
 
 #### January to April 2019: Line Chart Comparison 
 
-add line chart
+![fare_by_type](https://user-images.githubusercontent.com/100856534/165009840-6c25d1f5-a446-465f-846c-23c9f8667e70.png)
 
 When we compile the performance of each region into one chart, we can see there is no overlap. What is meant by that is that the urban regions by far produced more revenue than the suburban and rural regions. Suburban does not overpass rural at any time during this period and rural never overpasses suburban during this period. 
 
